@@ -1,2 +1,4 @@
 # stem-training
 ##Day one
+LEARNING MARKDOWN
+INSTALLING PYTHON
