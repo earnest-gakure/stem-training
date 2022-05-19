@@ -6,4 +6,5 @@ installing python
 building a simple calculator
 #day 3
 control flow
-building a complex calculato
+building a complex calculator
+
