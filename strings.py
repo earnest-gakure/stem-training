@@ -17,7 +17,7 @@ print(fruit[-5:])
 #strip removes spaces between words
 f_name = "e arnest"
 print(f_name.strip())
-first_name ="earnest"
-second_name ="gakure"
+first_name = "earnest"
+second_name = "gakure"
 full_name = first_name  +  second_name
 print(full_name)
