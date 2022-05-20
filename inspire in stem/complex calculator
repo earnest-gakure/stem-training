@@ -1,0 +1,23 @@
+type=input("which data type do you want")
+if type =="float":
+   x=float(input("assign a number for x"))
+   y=float(input("assign a number for y"))
+
+if type =="int":
+   x=int(input("assign a number for x"))
+   y=int(input("assign a number for y"))
+
+operatio= input("enter 0peration")
+if operation== 'adition':
+    print(x=y)
+if operation=='subtraction':
+    print(x-y)
+if operation=='multiplication':
+    print(x*y)
+if operation=='division':
+    print(x/y)
+   
+solution=(x+y) or (x-y) or (x*y) or (x/y)
+complex_soluton=complex(solution)
+
+print("the solution of this expression in its complex form is",complex_solution)
