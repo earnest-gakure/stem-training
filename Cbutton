@@ -1,0 +1,7 @@
+#GUI python 
+from logging import root
+from tkinter import *
+root =Tk ()
+myButton = Button(root,text="click me !",padx=50,pady=50)
+myButton.grid(column=20,row=30)
+root.mainloop()

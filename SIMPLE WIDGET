@@ -1,0 +1,13 @@
+#GUI python 
+from logging import root
+from tkinter import *
+root =Tk ()
+#create a frame
+my_lable = Label (root,text =("hellow word"))
+#show it on screen 
+my_lable . pack()
+root . mainloop()
+
+
+
+

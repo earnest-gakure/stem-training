@@ -1,0 +1,14 @@
+class person:
+    def __init__(self,name,age):
+        self.name=name
+        self.age=age
+    def details(self):
+        print(f"my name is {self.name} and my age is {self.age}")
+p1=person ("earnest",22)
+p1.details()   
+class Employee(person):
+    def __init__ (self,name,age,salary) :
+        super().__init__(name,age)
+        self.salary=salary  
+p2=Employee("earnest",22,500)
+p2.details()  

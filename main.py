@@ -5,7 +5,6 @@ class dog:
     def __init__(self,no_of_eyes,colour):
         self.no_of_eyes=no_of_eyes
         self.colour=colour
-    
     def barking(self):
         print("woof woof!")
 
