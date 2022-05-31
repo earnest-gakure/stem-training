@@ -14,7 +14,7 @@ kuccps apdating
 ## Day six
 lists,tuples,sets
 append,extend,pop,remove,clear
-## Dat seven
+## Day seven
 creating functions
 ## Day eight
 dictionary
@@ -29,7 +29,7 @@ Replacing characters
 ## Day ten
 # GUI(graphical user interface)
 ## Day eleven
-# importing files
+#importing files
 
 
 
