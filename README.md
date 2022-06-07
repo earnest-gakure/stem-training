@@ -30,6 +30,10 @@ Replacing characters
 # GUI(graphical user interface)
 ## Day eleven
 #importing files
+## Day twelve
+creating a simple game
+## Day 13
+creating a range in "n"
 
 
 
