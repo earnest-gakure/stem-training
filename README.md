@@ -34,6 +34,10 @@ Replacing characters
 creating a simple game
 ## Day 13
 creating a range in "n"
+## day 14
+IOT & ROBOTICS
+## Day 15
+how to connect a microprocesor to an actuator
 
 
 
