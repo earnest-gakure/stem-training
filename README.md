@@ -33,6 +33,13 @@ Replacing characters
 ## Day twelve
 creating a simple game
 ## Day 13
+
+
+## Day 14
+# uploading a code in microprocesser
+## Day 15
+# communication(by wires or wireless)
+
 creating a range in "n"
 ## day 14
 IOT & ROBOTICS
